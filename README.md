@@ -1,2 +1,2 @@
-# my_interior_design
+# My Interior Design
 Practicing lightmapping in Unity.
